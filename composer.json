@@ -4,8 +4,6 @@
   "description": "Magento 2 TLSoft Core module.",
   "type": "magento2-module",
   "minimum-stability": "stable",
-  "require": {
-  },
   "license": "proprietary",
   "authors": [
     {
